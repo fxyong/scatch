@@ -3,6 +3,7 @@ public class Test {
         System.out.print("hello world");
         System.out.println("help");
         //comments
+        //comments part 2
     }
 }
 
